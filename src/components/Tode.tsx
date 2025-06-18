@@ -1,5 +1,5 @@
 import type { Todo } from "../types";
-import { CheckCircle, Circle, Trash2 } from "lucide-react";
+import { CheckCircle, Trash2 } from "lucide-react";
 
 interface Props {
   todo: Todo;
